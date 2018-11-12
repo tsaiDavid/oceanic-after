@@ -1,0 +1,22 @@
+{
+    "name": "oceanic-after",
+    "displayName": "Oceanic After",
+    "description": "An Oceanic Next Revision",
+    "version": "0.0.1",
+    "publisher": "tsaiDavid",
+    "engines": {
+        "vscode": "^1.29.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Oceanic After",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Oceanic After-color-theme.json"
+            }
+        ]
+    }
+}
